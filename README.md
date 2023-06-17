@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenal0205&label=Profile%20views&color=0e75b6&style=flat" alt="meenal0205" /> </p>
 
-- 👨‍💻 All of my projects are available at My Portfolio[https://meenal-portfolio.netlify.app/]
+- 👨‍💻 All of my projects are available at [My Portfolio][https://meenal-portfolio.netlify.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
