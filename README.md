@@ -11,8 +11,6 @@
 - 💬 Ask me about  ReactJs , Flask , Django , NodeJs Javascript
 - 📫 How to reach me: meenalbharsakle123@gmail.com
 
-- 👨‍💻 All of my projects are available at My Portfolio : https://meenal-portfolio.netlify.app/
-
 
 
 <h3 align="left">Languages and Tools:</h3>
